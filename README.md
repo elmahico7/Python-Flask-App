@@ -8,4 +8,5 @@ pip install flask-bcrypt
 pip install flask-login
 pip install Pillow
 and finally run the run.py file
+(When use CMD, make sure that you are on the right directory)
 Create a new user or use an existing profile (email: user@user.com, password: 123 )
